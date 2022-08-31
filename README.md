@@ -2,6 +2,9 @@
 
 **CLI to extract and decrypt cookies from Google Chrome Browser in Windows.**
 
+[![python](https://img.shields.io/github/license/privtools/WinChromeCookieDec)](https://github.com/privtools/WinChromeCookieDec/blob/main/LICENSE.txt)
+![Issues](https://img.shields.io/github/issues/privtools/WinChromeCookieDec)
+
 It makes a local copy of Cookie sqlite database and Local State file. Generates a new sqlite file and a csv file with decrypted cookie values.
 
 Based in this gist: [Decrypt Chrome Cookies File (Python 3) - Windows](https://gist.github.com/GramThanos/ff2c42bb961b68e7cc197d6685e06f10) from [GramThanos](https://gist.github.com/GramThanos)
